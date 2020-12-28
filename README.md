@@ -2,6 +2,8 @@
 
 🍲 Discover different recipes, dishes and ingredients with a single search !
 
+Api: https://www.edamam.com/
+
 In the project directory, you can run:
 
 ### `npm start`
