@@ -3,6 +3,7 @@
 🍲 Discover different recipes, dishes and ingredients with a single search !
 
 Api: https://www.edamam.com/
+Deployed @ https://recipedishfinder.netlify.app/
 
 In the project directory, you can run:
 
