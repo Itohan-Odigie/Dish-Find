@@ -15,7 +15,7 @@
 
 /*#e3eeff */
 body {
-    background-color: #f7f2f3;
+    background-color: #f7f4f7;
 }
 
 html {
@@ -33,7 +33,7 @@ h1 {
     font-family: 'Rubik', sans-serif;
     font-size: 8rem;
     letter-spacing: 3px;
-    color: #b5c5e4;
+    color: rgb(237, 164, 224);
     text-shadow: 2px 2px 2px rgb(119, 115, 115);
     text-transform: uppercase;
     margin: 4rem 0;
@@ -66,7 +66,7 @@ h1 {
     position: absolute;
     top: -3rem;
     left: 0;
-    background-color: rgb(233, 72, 72);
+    background-color: rgb(237, 164, 224);
     width: calc(100% - 0.4rem);
     border-radius: 0.5rem;
     padding: 0.2rem;
@@ -97,13 +97,13 @@ h1 {
 
 .search-form input[type="submit"] {
     width: 25%;
-    background-color: #aebcd1;
+    background-color: rgb(237, 164, 224);
     color: #fff;
     letter-spacing: 2px;
 }
 
 .search-form input[type="submit"]:hover {
-    background-color: #c7d3e6;
+    background-color: rgb(237, 164, 224);
 }
 
 .recipes {
@@ -151,7 +151,7 @@ h1 {
 
 .recipe a {
     font-size: 1.8rem;
-    color: #e05c5c;
+    color: rgb(237, 164, 224);
     font-style: italic;
     margin: 1rem 1rem;
     text-align: center;
@@ -165,7 +165,7 @@ h1 {
     font-size: 2rem;
     text-transform: uppercase;
     color: #fff;
-    background-color: #e05c5c;
+    background-color: rgb(237, 164, 224);
     border: none;
     border-radius: 1rem;
     height: 3rem;
@@ -189,6 +189,6 @@ h1 {
 }
 
 .ingredient-weight {
-    color: #58b899;
+    color: rgb(237, 164, 224);
     font-size: 1.3rem;
 }
